@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**estherk0/estherk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Guys! 👋
+This is Esther Kim working at [SK Telecom](https://www.sktelecom.com/index.html) as a software developer in South Korea.  
+It's been almost 10 years since I started to develop the back-end services. 
 
-Here are some ideas to get you started:
+Here's ✨skill set✨:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript / NodeJS 
+- TypeScript
+- Go
+- Kubernetes
+- MSA
+- Build/Deploy Automation with Jenkins/Github Action/Argo workflow
+
+I am pleased to contribute the open source communities! 😆 
